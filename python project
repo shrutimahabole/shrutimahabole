@@ -1,0 +1,8 @@
+Programming Language: Python
+Libraries/Modules:
+Tkinter: Used for creating GUI and drawing the clock face and hands.
+time: Fetches the current time for the clock.
+math: Used for trigonometric calculations to position clock hands.
+Algorithms:
+Uses basic trigonometric functions to calculate the position of clock hands based on the current time (hours, minutes, seconds).
+Converts time into angles for accurate representation on the clock face.
